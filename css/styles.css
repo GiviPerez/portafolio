@@ -1,0 +1,102 @@
+* {
+ box-sizing: border-box;   
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#bb1919;
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    
+}
+.resaltar:hover{
+    color: rgb(255, 2, 65);
+}
+.parrafo{
+    font-family: 'Teko', sans-serif;
+    font-size: 200%;
+}
+.video{
+    display: flex;
+
+    
+}
+.descripciones{
+   display: flex; 
+  
+
+}
+.parrafo2{
+    font-family: 'Teko', sans-serif;
+    font-size: 200%;
+}
+.barto{
+    font-family:'Teko', sans-serif;
+    font-size: 200%; 
+}
+h1{
+    font-family: 'Teko', sans-serif;
+}
+.redes{
+    width: 600px;
+    height: auto;
+    justify-content: end;
+}
+.m{
+    width: 100%;
+}
+.boton {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size: 210%;
+    left: 100px;
+    top: 550px;
+    height:100px;
+    width: 200px;
+    z-index: 1;
+  }
+  .ilustracion {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size:200%;
+    left: 185px;
+    top: 500px;
+    height:100px; 
+    width: 150px;
+    z-index: 1;
+  }
+  .web {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size:210%;
+    left: 620px;
+    top: 500px;
+    height:100px;
+    width: 150px;
+    z-index: 1;
+  }
+  .hoja {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size: 180%;
+    left: 1020px;
+    top: 500px;
+    height:100px;
+    width: 150px;
+    z-index: 1;
+  }
+  .classrowhabilidades {
+    font-family:'Teko', sans-serif;
+}
+.yopi{
+  text-align: center;  
+}
+.container2{
+  width: 100%;
+
+}
+.texto{
+  text-align: center;
+  justify-content: center;
+  color: aliceblue;
+}
